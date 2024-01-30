@@ -1,0 +1,10 @@
+insert into Client (id, name) values ('1', 'Cristal');
+insert into Client (id, name) values ('2', 'Sheelagh');
+insert into Client (id, name) values ('3', 'Garth');
+insert into Client (id, name) values ('4', 'Hedy');
+insert into Client (id, name) values ('5', 'Patric');
+insert into Client (id, name) values ('6', 'Tansy');
+insert into Client (id, name) values ('7', 'Wald');
+insert into Client (id, name) values ('8', 'Dacie');
+insert into Client (id, name) values ('9', 'Joyce');
+insert into Client (id, name) values ('10', 'Burtie');

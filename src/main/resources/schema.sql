@@ -1,0 +1,5 @@
+create table Client (
+    id INT AUTO_INCREMENT,
+    name VARCHAR(50)
+);
+CREATE SEQUENCE CLIENT_SEQ START WITH 11
